@@ -1,7 +1,7 @@
 [
  {
    "index": 0,
-   "artistName": "Michele Caliani",
+   "name": "Michele Caliani",
    "image": "https://lh3.googleusercontent.com/HblRynoRG5i39ZaFdj_2dCxSXawfc9c5JDmZbl_k241s5oYrhZsVyu6mufR0UWx30JYJG1iDAvCqx6F8Rvir8misLrtHpp9GiU4k2ITQtTfl-gemicSAhAjrXcvQmC4s6PCOfndkuA=w2400",
    "imageURL": "https://unsplash.com/photos/iLAAT1E-H_8",
    "media": "https://unsplash.com/@michele00caliani",
@@ -15,7 +15,7 @@
  },
  {
    "index": 1,
-   "artistName": "Tom Barrett",
+   "name": "Tom Barrett",
    "image": "https://lh3.googleusercontent.com/0qhsgSQbWI5H80guGu-06jz50FnoOGqjaUwCHCEhPXVGjXzUnT8uADR2Rm2iM3eSndoJzBCCJ46uITwy1nJisPudzayIflzNCaTfACFyasffboNUDgZn3_PGzsYU1a9wzRBnRVLgbg=w2400",
    "imageURL": "https://unsplash.com/photos/2t60-JYQ5pk",
    "media": "instagram.com/wistomsin",
@@ -29,7 +29,7 @@
  },
  {
    "index": 2,
-   "artistName": "Alexander Andrews",
+   "name": "Alexander Andrews",
    "image": "https://lh3.googleusercontent.com/jX3lKuaD7k7Qr2oP8l-oPi7tkNecaBAbCN66gvOYMuPgGI_YA5I_1uPg2urHuBxteBAaOzXWISRtPe5o7wtxY0f3p17nK34_VBoYQ_dLLJWMoo0bzY9KYjtA7iVqt202EBbSdJKUIg=w2400",
    "imageURL": "https://unsplash.com/photos/vGCErDhrc3E",
    "media": "alexandrews.picfair.com",
@@ -43,7 +43,7 @@
  },
  {
    "index": 3,
-   "artistName": "Hoach Le Dinh",
+   "name": "Hoach Le Dinh",
    "image": "https://lh3.googleusercontent.com/koN1DrIODkaZBftNJ4EQhkPZVWTuXWi1bASUKCfwEQZHyR0rR4VPJpMTzd3YrUum8GoVOznQ0pnClF6MooXzz_Aj6OUg4nwy4tY1ZxU8IRGaeiDUnHj4U0QfKN9CEl9sgMM_2bmBdQ=w2400",
    "imageURL": "https://unsplash.com/photos/5DJqsjAYlmk",
    "media": "hoachld.com",
@@ -57,7 +57,7 @@
  },
  {
    "index": 4,
-   "artistName": "Pipe A.",
+   "name": "Pipe A.",
    "image": "https://lh3.googleusercontent.com/c1D5wtRjlwoRhUlBIz948dX3cVpFUWZHaWQ_n11ZhXFaIAdFqhEINY0UW4nOULzC1GAbbew9QgMHp22aiAHIWDLeJ4-qUt-w14AXeblCA_OQ7oNkXnZaKVy7VchYx0pTUoU682clxg=w2400",
    "imageURL": "https://unsplash.com/photos/WQTwsgq_mxg",
    "media": "https://unsplash.com/@pipeaguileram",
@@ -71,7 +71,7 @@
  },
  {
    "index": 5,
-   "artistName": "Ali Arif Soydaş",
+   "name": "Ali Arif Soydaş",
    "image": "https://lh3.googleusercontent.com/r7a9tvuZ_56o25jaYR-fHQk7j-JuKOrIEWZFCperES-pfO-CpNGbS4uSD_-Y0OdQTjnwaewKSDTFFJL-78gOsM-fvyTIhivXE3q56SUXz_3V0ITM5LXxmFGRcmOm1OyobqeBx4n5Mw=w2400",
    "imageURL": "https://unsplash.com/photos/3ICVaI2uzfE",
    "media": "instagram.com/aliarifsoydas",
@@ -85,7 +85,7 @@
  },
  {
    "index": 6,
-   "artistName": "bantersnaps",
+   "name": "bantersnaps",
    "image": "https://lh3.googleusercontent.com/HpBognbZxl4BphFbOMCl8_q4OXX6GYIGMrtAaxiUrF8BfZhMp_SDeXCPnkFwIIJ-79-KzZNwr_M9vv8ojhKBXHoQogVm8M8ciYtXyVHW7BEBvunS304iT3u4s2viPW4AEKbeU-zumQ=w2400",
    "imageURL": "https://unsplash.com/photos/vUwJ8uu_C1M",
    "media": "http://instagram.com/BanterSnaps ",
@@ -99,7 +99,7 @@
  },
  {
    "index": 7,
-   "artistName": "adrian",
+   "name": "adrian",
    "image": "https://lh3.googleusercontent.com/Cd2XW1wp7ljN-9oE4AlwNy8DvjnxvyYiw76L3T1DjvXehnVdw7yJH4AnHmB_wZzKonH9qHoTdufP14lILkhUnzi0p8bstTVqN1GLjpFj0q54ACJ9GPJ-kHOxH0DUaDXr4VXsFE4Lfg=w2400",
    "imageURL": "https://unsplash.com/photos/Xft-JdC-Jbc",
    "media": "aows.co",
@@ -113,7 +113,7 @@
  },
  {
    "index": 8,
-   "artistName": "Ronan Furuta",
+   "name": "Ronan Furuta",
    "image": "https://lh3.googleusercontent.com/TikCcHU04Uwe_CAtN64BdCRz8dWNFw8vEAe26jeO6yrY_Xhq9zz8Utd_L3a3_DAfJ6yWNi6bwmWOSvq01wQ0NJvMohCpFz-wchDOMAPNeNspZV-XP6ASgOv8yQKRulzqOTHWF1XUNw=w2400",
    "imageURL": "https://unsplash.com/photos/ZJ8M0bfiu8U",
    "media": "ronanfuruta.com",
@@ -127,7 +127,7 @@
  },
  {
    "index": 9,
-   "artistName": "Phoebe Strafford",
+   "name": "Phoebe Strafford",
    "image": "https://lh3.googleusercontent.com/FdcQPvkVUAU2Gm_ZNJ6Q-85hfTzPX-C0OMZDOKkUGZFKbgSC_ppUup7CSCE9J7mTXOKJtJ5C5Qw99ffOqDPot2IKEs8i9058P4ogqOa7u9ukV-p9P2oyqEAMMqqmT8QSC_t0A0Ebng=w2400",
    "imageURL": "https://unsplash.com/photos/EBbP0Wrbmqs",
    "media": "https://unsplash.com/@phoebeann",
@@ -141,7 +141,7 @@
  },
  {
    "index": 10,
-   "artistName": "Ray Fragapane",
+   "name": "Ray Fragapane",
    "image": "https://lh3.googleusercontent.com/EA4TcTGqI8IQOTg4uNckcSaKkha-rG5grYUKqf9hvRlvkgTrMpumrPhHxdzkKiqw89kJZwvBsc_LG4UEJ_SDohSXd6EQnttcMdS6Bi9IpDN2wg4D8WPMKsMWh4ETRJE8mA5Jp925XQ=w2400",
    "imageURL": "https://unsplash.com/photos/PkKIVq1CUuY",
    "media": "rayanna.blog",
@@ -155,7 +155,7 @@
  },
  {
    "index": 11,
-   "artistName": "Chris Herath",
+   "name": "Chris Herath",
    "image": "https://lh3.googleusercontent.com/DrrTS1IsZb7HMCc8R6U3yfgnUVfWM4zHnkEhIkOLqpQcTZLC9JC8H9SR7P3deGiATtdwomjUQUMtQ6A4lYUWp-IQGHt5cterQP2l4bj6wYxd20T1hbWWbPXI50dhPmwINJFOByvjbQ=w2400",
    "imageURL": "https://unsplash.com/photos/FcvIlm3I2Ts",
    "media": "https://unsplash.com/@cherath14",
@@ -169,7 +169,7 @@
  },
  {
    "index": 12,
-   "artistName": "Tim Navis",
+   "name": "Tim Navis",
    "image": "https://lh3.googleusercontent.com/6HA6OO9zJdt9vaHnXFSdgXsRqxtftikWnGqaTbFTRVp1XDYg7rvoI_cLX72uvumFejK1lVMpfsdrDosMxnSxBLFAnvbALJO6_NY1mLc3os7Fdhaoqdfz3cMXxn2w3KbHg3-nA6G1LA=w2400",
    "imageURL": "https://unsplash.com/photos/Flxl7OUuO1M",
    "media": "navisphotography.com",
@@ -183,7 +183,7 @@
  },
  {
    "index": 13,
-   "artistName": "Osman Rana",
+   "name": "Osman Rana",
    "image": "https://lh3.googleusercontent.com/E-5PD-JdJRD1JcEXxe-AGKp1xqCFPR5XV-T_nh8qfbupDUQfgMb1jpQyy1vYE8s4tyyxqGj0rU5PjF9nqMii2BTXOE8gcLPVyhYIyqNCM_BSkAvvyjWjnUxBwhmcr46IyznDeU0q1w=w2400",
    "imageURL": "https://unsplash.com/photos/dI9KhXi0ooE",
    "media": "https://oranaphotography.com",
@@ -197,7 +197,7 @@
  },
  {
    "index": 14,
-   "artistName": "Alex",
+   "name": "Alex",
    "image": "https://lh3.googleusercontent.com/Yi3cIUGVHZbUWSM2awcRaCBb8E1r_zW1pWveqLDBcId38tvTwetrwwHNijdTkt79P1o44yA161VuHvSxWkuIeMVChnhtxIJo_KL_aatpHU1rcfbvE_FIOukPS5GkouwhUthT_1mRMw=w2400",
    "imageURL": "https://unsplash.com/photos/tXYg4Zx7kSU",
    "media": "instagram.com/alex.thebrave",
